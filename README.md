@@ -20,6 +20,9 @@ Para realizar esta practica creamos en clase un juego web sencillo que utiliza e
 
 #### • Almacenar del lado del servidor puntaje de cada usuario y cargarlo del lado del cliente al conectarse al juego
 
+#### • Implementar una funcionalidad adicional que afecte el estado del juego. Ej. Nuevos objetos, obstáculos, habilidades.
+
+
 ### Instrucciones
 ```
 npm install
